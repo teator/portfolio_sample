@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: "Tea Toradze - portfolio samples"
-description: "Some of my portfolio projects."
+description: 
 github_username: teator
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "portfolio_samples"
