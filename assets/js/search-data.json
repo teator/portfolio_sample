@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "#### I will add links here: . link1, | link 2, | link 3, | . . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "### I will add links here: . link1, | link 2, | link 3 | . . testing some features: . multilanguage: ქართული . | Math: α=∫01sin(x)dx alpha = int_0^1 sin(x) dxα=∫01​sin(x)dx . | Link: GitHub . | . Code: . function fancyAlert(arg) { if(arg) { $.facebox({div:&#39;#foo&#39;}) } } . Table: First Header | Second Header ———— | ————- Content from cell 1 | Content from cell 2 Content in the first column | Content in the second column . Note: . Note: Take note of this. . . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://teator.github.io/portfolio_samples/about/",
           "relUrl": "/about/",
           "date": ""
