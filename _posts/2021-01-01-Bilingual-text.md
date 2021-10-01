@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Bilingual text example.
-categories: [markdown]
+categories: [Bilingual]
 title: An Example Bilingual text.
 ---
 
