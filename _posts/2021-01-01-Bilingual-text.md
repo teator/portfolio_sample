@@ -4,6 +4,7 @@ layout: post
 description: Bilingual text example.
 categories: [Bilingual]
 title: An Example Bilingual text.
+image: images/chart-preview.png
 ---
 
 
